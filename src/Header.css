@@ -1,0 +1,15 @@
+.header_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px gray;
+    z-index: 100;
+     padding: 20px;
+}
+.header_image {
+    object-fit: contain;
+    height: 80px ;
+    width:  80px;
+   
+}
+ 
